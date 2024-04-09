@@ -1,0 +1,13 @@
+2f)
+    ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?.
+        Inspeccionando la branch main con git bash no puedo ver el archivo tp2_1_2.c. 
+        Porque lo creé en la branch Opción_2, que es una version alternativa de main.
+    
+    Creamos respuestas.exe ¿Qué diferencias nota?
+        Ahora en la branch main aparece el archivo respuestas.txt, pero en la branch Opcion_2 no aparece. 
+        Figura también quién hizo el commit, cuando lo hizo y el mensaje del commit.
+        
+    Combinamos ambos repositorios ¿Que nota?
+        Al combinar ambos repositorios en la branch main, todos los archivos únicos de Opcion_2 aparecen en main, en este caso es tp2_1_2.c únicamente.
+        La branch Opcion_2 no cambio luego del merge.
+        
